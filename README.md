@@ -9,7 +9,8 @@
 - MessageKit
 
 Некоторые скриншоты приложения из эмулятора:
-![Image alt](https://github.com/AlishKZ/FitManager/raw/main/Screenshots/Auth.png)
+
+![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/Auth.png)
 
 ![Image alt](https://github.com/AlishKZ/FitManager/raw/main/Screenshots/Reg.png)
 
