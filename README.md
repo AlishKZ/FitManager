@@ -14,4 +14,4 @@
 
 ![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/Reg.png)
 
-![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/Home.png)
+![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/home.png)
