@@ -12,6 +12,6 @@
 
 ![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/Auth.png)
 
-![Image alt](https://github.com/AlishKZ/FitManager/raw/main/Screenshots/Reg.png)
+![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/Reg.png)
 
-![Image alt](https://github.com/AlishKZ/FitManager/raw/main/Screenshots/home.png)
+![alt text](https://raw.githubusercontent.com/AlishKZ/FitManager/main/Screenshots/Home.png)
