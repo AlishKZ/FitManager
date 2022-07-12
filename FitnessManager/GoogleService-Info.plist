@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918104476220-r2k632knkaarv3n8su4947ovebgdnhvu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918104476220-r2k632knkaarv3n8su4947ovebgdnhvu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCo6_Xku5-M6pfHR2eINuBOo56ImutgYnQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918104476220</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Alisher-Akhmetzhanov.FitnessManager</string>
+	<key>PROJECT_ID</key>
+	<string>fitness-manager-c129d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitness-manager-c129d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>DATABASE_URL</key>
+	<string>https://fitness-manager-c129d-default-rtdb.europe-west1.firebasedatabase.app/</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918104476220:ios:59eda181953adbbe3d1139</string>
+</dict>
+</plist>
